@@ -5,6 +5,15 @@
     <color name="purple_700">#FF3700B3</color>
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
+    <color name="pink">#E91E63</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="prueba">#</color>
+
+    <color name="bg_component">#1D1E33</color>
+    <color name="bg_component_selected">#FF111328</color>
+    <color name="bg_app">#0E0B20</color>
+    <color name="bg_button">#EB1555</color>
+    <color name="title_text">#FF8D8E98</color>
 </resources>

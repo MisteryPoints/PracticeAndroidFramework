@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">androiddesdecero</string>
+    <string name="result_string">Esto es un texto de Ejemplo</string>
+    <string name="maleicon">maleIcon</string>
+    <string name="male">Hombre</string>
+    <string name="femaleicon">femaleIcon</string>
+    <string name="female">Mujer</string>
 </resources>
