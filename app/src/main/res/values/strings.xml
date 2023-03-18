@@ -5,4 +5,27 @@
     <string name="male">Hombre</string>
     <string name="femaleicon">femaleIcon</string>
     <string name="female">Mujer</string>
+    <string name="height">Altura</string>
+    <string name="weight">Peso</string>
+    <string name="age">Edad</string>
+    <string name="plusagefab">plusAgefab</string>
+    <string name="minusagefab">minusAgefab</string>
+    <string name="minusweightfab">minusweightfab</string>
+    <string name="plusweightfab">plusweightfab</string>
+    <string name="calculate">Calcular</string>
+    <string name="result">0</string>
+    <string name="recalculate">Re-Calcular</string>
+    <string name="title">Tu Resultado</string>
+
+    <string name="error">Error</string>
+
+    <string name="bajopeso">Bajo Peso</string>
+    <string name="normal">Normal</string>
+    <string name="sobrepeso">Sobre Peso</string>
+    <string name="obesidad">Obesidad</string>
+
+    <string name="descripcionbajopeso">Estas por debajo de lo Optimo para tu peso ideal.</string>
+    <string name="descripcionnormal">Estas en tu peso ideal.</string>
+    <string name="descripcionsobrepeso">Estas por encima de lo Optimo para tu peso ideal.</string>
+    <string name="descripcionobesidad">Estas MUY por encima de lo Optimo para tu peso ideal.</string>
 </resources>

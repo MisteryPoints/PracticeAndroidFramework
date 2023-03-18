@@ -13,6 +13,13 @@
         android:theme="@style/Theme.Androiddesdecero"
         tools:targetApi="31">
         <activity
+            android:name=".imccalculator.ResultIMCActivity"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
             android:name=".imccalculator.IMCCalculatorActivity"
             android:exported="false">
             <meta-data
